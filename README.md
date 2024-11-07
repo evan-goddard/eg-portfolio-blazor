@@ -20,6 +20,6 @@ To get the files from the Blazor WebAssembly Application, follow the below steps
 <br/>a. It may be worthwhile to remove all the files from the local 'Github Pages' repo, so that were removed since the previous publish are removed
 <br/>b. If doing 'a', do NOT remove the '.gitattributes', 'README', or the '.nojekyll' files!
 
-6. Edit the 'index' file's <base href="" /> tag to read the base path of the 'Github Pages' repo
-<br/>a. Example: <base href="/eg-portfolio-blazor/" />
+6. Edit the 'index' file's < base href="" / > tag to read the base path of the 'Github Pages' repo
+<br/>a. Example: < base href="/eg-portfolio-blazor/" / > (without spaces inbetween the angle brackets)
 
